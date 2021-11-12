@@ -1,0 +1,4 @@
+Kavics,30,USD
+Hurka,1,EUR
+Hal,1,HUF
+Tenger,9,GBP
